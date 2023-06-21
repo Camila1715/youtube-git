@@ -1,0 +1,98 @@
+commit 1d452f28382d01d60bbea5a6a96874868d95ebc2
+Author: Camila Ramirez <rcamila1715@gmail.com>
+Date:   Wed Jun 21 13:17:53 2023 -0300
+
+    Agregando 2 parrafos
+
+commit a79870e85ab9c5386f6539316f92ef4605bfe904
+Merge: 3a01d34 765d9b7
+Author: Camila Ramirez <rcamila1715@gmail.com>
+Date:   Wed Jun 21 13:15:49 2023 -0300
+
+    Resolviendo conflictos en estaciones del año y fechas de inicio
+
+commit 3a01d3482c3e8bd6212a98655a6c2ac85a157697
+Author: Camila Ramirez <rcamila1715@gmail.com>
+Date:   Wed Jun 21 12:59:44 2023 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 765d9b764c2242866f575c3d0c296f8c3a26fc24
+Author: Camila Ramirez <rcamila1715@gmail.com>
+Date:   Wed Jun 21 12:59:44 2023 -0300
+
+    Agregando las estaciones del año
+
+commit 439ffb4ae92d0f8ba83532aed01d1a0775186e38
+Merge: 0b864e7 32a65c1
+Author: Camila Ramirez <rcamila1715@gmail.com>
+Date:   Wed Jun 21 12:54:53 2023 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 32a65c17c48a565577463e85813f8921d6997165
+Author: Camila Ramirez <rcamila1715@gmail.com>
+Date:   Wed Jun 21 12:48:29 2023 -0300
+
+    Agregando index.js al index.html
+
+commit 0b864e7e846d679547ea580cd5e526659be91844
+Author: Camila Ramirez <rcamila1715@gmail.com>
+Date:   Wed Jun 21 12:46:36 2023 -0300
+
+    Agregando styles.css al index.html
+
+commit 3bf926c861604bf643881670b0dee9ac5fa1c5eb
+Merge: e43f310 0a005df
+Author: Camila Ramirez <rcamila1715@gmail.com>
+Date:   Wed Jun 21 12:37:32 2023 -0300
+
+    Merge branch 'js'
+
+commit 0a005dfe715413549f23e2069df2337f29f355aa
+Author: Camila Ramirez <rcamila1715@gmail.com>
+Date:   Wed Jun 21 12:31:34 2023 -0300
+
+    Creando index.js
+
+commit e43f3109d3cc4b3bc14c3a47067143ddf85912e5
+Author: Camila Ramirez <rcamila1715@gmail.com>
+Date:   Wed Jun 21 12:26:08 2023 -0300
+
+    Creando style.css
+
+commit 428e0033b4d43449fe54bd3a684dea9ec14fd367
+Author: Camila Ramirez <rcamila1715@gmail.com>
+Date:   Wed Jun 21 12:21:56 2023 -0300
+
+    Creando index.html
+
+commit 1c427d7e212abfc349b6611b4a86c5a37cc79a9d
+Author: Camila Ramirez <rcamila1715@gmail.com>
+Date:   Tue Jun 20 22:25:27 2023 -0300
+
+    Ignorando archivos .exe
+
+commit 2735947e2a19691c30dc4225cfe201085adede7a
+Author: Camila1715 <96553401+Camila1715@users.noreply.github.com>
+Date:   Tue Jun 20 21:48:25 2023 -0300
+
+    Creando licencia del repositorio
+
+commit 86bb7d331e8592b000382440d70b901e8c40ae8e
+Author: Camila Ramirez <rcamila1715@gmail.com>
+Date:   Tue Jun 20 21:40:07 2023 -0300
+
+    Agregando mas contenido al README
+
+commit 63ad0f4840d7998e88b2e227303630eda5ea34c1
+Author: Camila Ramirez <rcamila1715@gmail.com>
+Date:   Tue Jun 20 21:30:40 2023 -0300
+
+    Agregando contenido inicial al README
+
+commit 39a56ab379887e4c82e5506c48051620c9585cfa
+Author: Camila Ramirez <rcamila1715@gmail.com>
+Date:   Tue Jun 20 21:24:27 2023 -0300
+
+    Primer commit 😊
